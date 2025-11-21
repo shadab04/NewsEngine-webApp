@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Register - News App</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="auth.css">
+</head>
+<body>
+<div class="container-auth">
+    <div class="card-auth" role="region" aria-label="Registration form">
+        <h1 class="auth-title">Create an account</h1>
+        <p class="auth-sub">Sign up to save preferences and personalize your news feed.</p>
+
+        <!-- show server-side messages if forwarded as query params or attributes -->
+        <!-- Example: if using JSP you can handle server messages; plain static HTML stays simple -->
+
+        <form action="/register" method="post" autocomplete="off" novalidate>
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input id="username" name="username" type="text" required placeholder="Choose a username" />
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email address</label>
+                <input id="email" name="email" type="email" required placeholder="you@example.com" />
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input id="password" name="password" type="password" required placeholder="At least 8 characters" />
+            </div>
+
+            <button type="submit" class="btn-primary">Create account</button>
+        </form>
+
+        <p class="small-note">Already have an account? <a href="/login.html" class="link-muted">Sign in</a></p>
+    </div>
+</div>
+</body>
+</html>
