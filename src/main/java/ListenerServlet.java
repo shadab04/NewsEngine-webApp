@@ -31,12 +31,6 @@ public class ListenerServlet extends HttpServlet
         }
 
     }
-
-
-
-
-
-
 }
 
 }
