@@ -116,28 +116,12 @@ News API (development)
 Optional: Custom backend proxy for production
 
 🧱 Architecture
-📦 APNA NEWS – Web Application
-│
-├── 🌐 Frontend Layer  
-│   ├── HTML templates  
-│   ├── Responsive CSS  
-│   └── JS (Fetch API, UI rendering, theme toggle)
-│
-├── 🧩 Backend Layer (Servlets)  
-│   ├── LoginServlet  
-│   ├── RegisterServlet  
-│   ├── LogoutServlet  
-│   ├── RequestDispatcher for routing  
-│   └── JDBC integration (optional)
-│
-└── 🗄️ Database Layer (optional)
-    ├── Users table  
-    ├── Hashed passwords  
-    └── Session tokens
+<img width="1024" height="1536" alt="ChatGPT Image Nov 22, 2025, 01_11_53 AM" src="https://github.com/user-attachments/assets/92ed0a02-578e-4f88-a74b-b4ff14019d96" />
 
 📂 Project Directory Structure
 
 <img width="1024" height="1536" alt="ChatGPT Image Nov 22, 2025, 12_24_15 AM" src="https://github.com/user-attachments/assets/b19a9ede-91b6-4cba-a543-94632f2bac38" />
+
 
 ⚙️ Installation & Setup
 1. Clone the Repository
