@@ -6,6 +6,7 @@ Built using Java Servlets and modern frontend technologies, the project follows 
 <p align="center">
   🚀 Demo GIF coming soon – work in progress.
 </p>
+<img width="1888" height="913" alt="Screenshot 2025-12-07 002249" src="https://github.com/user-attachments/assets/d25ab7e2-5df3-4d98-8940-bcb6978e229d" />
 
 This project demonstrates strong skills in:
 
