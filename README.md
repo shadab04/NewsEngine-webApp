@@ -3,7 +3,9 @@
 APNA NEWS is a feature-rich, production-style real-time news web platform designed to deliver live updates, smart category filtering, dark/light mode, authentication system, and an elegant user interface.
 Built using Java Servlets and modern frontend technologies, the project follows clean architecture principles and replicates the experience of professional news portals (e.g., The Hindu, Indian Express, TOI).
 
-<img width="1892" height="926" alt="image" src="https://github.com/user-attachments/assets/b41f6b5e-e26f-49a7-b456-554a67360905" />
+<p align="center">
+  🚀 Demo GIF coming soon – work in progress.
+</p>
 
 This project demonstrates strong skills in:
 
